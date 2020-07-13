@@ -5,7 +5,7 @@ This project is based on online coupons and discount code, Where user can visit 
 ### Backend
 Backend is developed on Laravel
 
-### Frotnend
+### Frontend
 Frontend is developed on HTML, CSS, jQuery
 
 ### Live URL
