@@ -1,6 +1,6 @@
 # Laravel-BigFrog
 
-This project for online coupons and discount code. The users can search the stores that provide a coupon for them. Also, users can select coupons and copy the code.
+This project is for online coupons and discount code. The users can search the stores that provide a coupon for them. Also, users can select coupons and copy the code.
 
 ### Backend
 The backend has developed in Laravel
